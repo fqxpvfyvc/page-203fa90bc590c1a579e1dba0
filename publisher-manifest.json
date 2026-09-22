@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c929c377ca3465a5c2557530",
+  "owner": "fqxpvfyvc",
+  "repo": "page-203fa90bc590c1a579e1dba0",
+  "title": "YUKO冲浪室(YUKO)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "203fa90bc590c1a579e1dba0",
+      "a": "YUKO冲浪室(YUKO)",
+      "b": "机场官网线路发布页",
+      "entity": "YUKO冲浪室(YUKO)",
+      "brand": "YUKO冲浪室(YUKO)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "07524f06f9d5f0483e448a3e50f82246bdce4d570bb179c616e20ce08491b9cd",
+      "content": {
+        "primary_entity": "YUKO冲浪室(YUKO)",
+        "keyword1": "YUKO冲浪室(YUKO)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，参考对应订阅导入说明完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对比套餐流量与设备数，选好周期后完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始使用 YUKO",
+          "AI_DESCRIPTION": "，以三档套餐覆盖不同设备与流量需求，基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并优化游戏专线，团队版每月 1000GB 支持 20 台设备。年付方案分别为 ¥150/年、¥350/年、¥850/年，可按使用人数和月度流量直接对比。订阅导入后按客户端文档完成配置，适合个人与小型团队根据设备数量选择。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量与 3 台设备适合轻度个人使用；旗舰版每月 300GB、5 台设备并含 IPLC 专线优化，适合多设备与游戏需求；团队版每月 1000GB、20 台设备与专属线路，适合小团队。",
+          "AI_FAQ_ANSWER_2": "基础版与旗舰版价格分别为 ¥15/月、¥35/月，年付对应 ¥150/年、¥350/年。月付适合短期体验，年付折算后每月支出更低。",
+          "AI_FAQ_ANSWER_3": "每档套餐写明同时在线设备数量：基础版 3 台、旗舰版 5 台、团队版 20 台。超出后需要升级套餐或管理当前在线设备。",
+          "AI_FAQ_ANSWER_4": "订阅导入方式依据所用客户端不同，选择对应系统版本后参考客户端内的订阅配置说明，将订阅地址填入即可拉取节点。",
+          "AI_FAQ_ANSWER_5": "年付方案按 ¥150/年、¥350/年、¥850/年结算，相比月付可以减少每月续费操作。团队版年付适合固定人数长期使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "月付和年付价格差多少？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量是怎么限制的？",
+          "AI_FAQ_QUESTION_4": "订阅如何导入到客户端？",
+          "AI_FAQ_QUESTION_5": "年付方案适合哪些用户？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量和订阅周期了解 YUKO。",
+          "AI_FEATURES_TITLE": "特点与选择",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备，团队版 1000GB/20 台设备。",
+          "AI_FEATURE_TEXT_2": "普通线路与 IPLC 专线节点池按套餐区分，游戏加速优化集中在旗舰版。",
+          "AI_FEATURE_TEXT_3": "按月付 ¥15 起，年付 ¥150 起，团队版提供专属客户经理与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备分档",
+          "AI_FEATURE_TITLE_2": "线路与专线优化",
+          "AI_FEATURE_TITLE_3": "周期与付费方式",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按三步完成基础配置。",
+          "AI_GUIDE_TITLE": "选择步骤",
+          "AI_HERO_INTRO": "YUKO冲浪室提供按月或按年订阅的加速套餐，覆盖个人轻量使用到小团队多设备接入。基础版、旗舰版、团队版分别对应不同流量与在线设备数，可按使用人数和月度流量选择。",
+          "AI_HERO_SUBTITLE": "按流量与设备选套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备。",
+          "AI_HIGHLIGHT_2": "旗舰版每月 300GB，支持 5 台设备。",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备。",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量，在基础版、旗舰版与团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、流量额度与线路类型，确认是否满足当前使用需求。",
+          "AI_STEP_TEXT_3": "在对应客户端按订阅导入说明填入订阅信息，完成节点配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "YUKO 冲浪室套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uitnzu.cn",
+    "host": "uitnzu.cn"
+  },
+  "file_hashes": {
+    "index.html": "33310f1a2b75e6b73fd90307db87cc9310478689326a26bd1fa25ea9e25b5488",
+    "sitemap.xml": "e216efe5267b56cde25186995922b923ab331d0a480a869f938ae47ff36bca0e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68ad2a21d44f32837bae68a5ba7bb493a1fa4543230583c6cce21c57dec6776a",
+    "robots.txt": "fbd51a13c197b373a71e61a944119f275b6142b53c8dbee6bdd590661fb4d993",
+    "f359746738b8b02b42b81a13e0b13902.txt": "d82c6958c81b2a08bb58167071e91bfedda37c5e58e579b794044d7840efff28"
+  },
+  "revision": "fef7b199bb2e1f6356a605ea11cd309c2b3e9267d6b9abeb3cc0189fe2940e5b"
+}
